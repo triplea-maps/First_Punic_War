@@ -1,0 +1,3 @@
+map_name: first_punic_war
+games:
+- {game_name: First Punic War, file_name: FirstPunicWar.xml}
